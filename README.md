@@ -1,6 +1,6 @@
-## BeanCowboy VS SpaceInvaders WebGL Build
+# BeanCowboy VS SpaceInvaders WebGL Build
 
-# Screenshots
+## Screenshots
 ![screenshot1](screens/s1.jpg)
 
 ![screenshot2](screens/s2.JPG)
